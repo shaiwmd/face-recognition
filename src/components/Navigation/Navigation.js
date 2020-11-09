@@ -4,7 +4,7 @@ import { Nav } from './styles';
 const Navigation = () => {
   return (
     <Nav>
-      <p className='f3 link dim black underline pa3 pointer'>sign out</p>
+      <p className='f3 link dim underline pa3 pointer'>sign out</p>
     </Nav>
   );
 };

@@ -7,7 +7,8 @@ export const GlobalStyles = createGlobalStyle`
   }
   body {
     font-family: 'Roboto';
-    background-color: #efefef;
+    background-color: #222;
     text-align: center;
+    color: #eee;
   }
 `;
